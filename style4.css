@@ -1,0 +1,75 @@
+ .*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+.menu-container 
+ {
+  color: #fff;
+  background-color: black ;
+  padding: 5px 0;
+  display: flex;
+  justify-content: center; 
+ }
+.menu 
+ {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  height: 110px;
+ }
+
+.abc
+  {
+    font-size: 30px;
+     padding-left: 56px; 
+     padding-top: 3%;
+  }
+   .signup
+  {
+      font-size: 30px;
+       padding-left: 80px; 
+          padding-top: 3%;
+  }
+.Login
+  {
+      font-size: 30px;
+       padding-left: 80px; 
+          padding-top: 3%;
+  }
+  .field
+  {
+      text-align: center;
+      padding: 20px;
+      width:100%;
+      height:100%;
+
+  }
+   #forms
+  {   padding-top: 5%;
+      width:100%;
+      height: 100%;
+      display: block;
+      text-align:center;
+      background-image: url("image1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  #form1
+      {  width:50%;
+          height:50%;
+          display: inline-block;
+          background-color:rgba(192,192,192,0) ;
+          margin-left: auto;
+          margin-right: auto;
+      }
+  .ip{
+      height:30px;
+      width: 300px;     
+     }
+     .btns{
+         width:150px;
+         height:20px;
+       }
+         
+      
